@@ -1,0 +1,37 @@
+body{
+    background-color: paleturquoise;
+    font-family: 'Share Tech Mono', monospace;
+}
+.container{
+    background-color: aquamarine;
+}
+.img{
+    text-align: center;
+}
+.def{
+    font-family: 'Geostar', cursive;
+    text-align: center;
+}
+.types{
+    text-align: center;
+    font-family: 'Quantico', sans-serif;
+}
+.what{
+    font-family: 'Quantico', sans-serif;
+}
+.how{
+    font-family: 'Quantico', sans-serif;
+}
+.functions{
+    font-family: 'Quantico', sans-serif;
+}
+.twotypes{
+    text-align: center;
+    list-style-position: inside;
+}
+.kernel{
+    font-family: 'VT323', monospace;
+}
+.user{
+    font-family: 'VT323', monospace;
+}
